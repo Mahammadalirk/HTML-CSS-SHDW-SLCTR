@@ -1,0 +1,14 @@
+h2{
+    margin-left: 30%;
+}
+form span, input{
+    margin-left: 20px;
+    margin-bottom: 5px;    
+}
+.yas input{
+    width: 42px;
+}
+.submit{
+    margin-left: 30%;
+    background-color: blue;
+}
